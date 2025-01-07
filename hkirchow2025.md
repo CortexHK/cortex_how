@@ -18,7 +18,7 @@ Lab Deck: https://tinyurl.com/hkric-how2025
 
 Lab Guide: https://tinyurl.com/xdrhow2025 ​
 
-[Unit 42 Ransomware and Extortion Report](https://start.paloaltonetworks.com/2023-unit42-ransomware-extortion-report​) and the [2024 Incident Response Report](https://www.paloaltonetworks.com/resources/research/unit-42-incident-response-report)
+[Unit 42 Ransomware and Extortion Report](https://start.paloaltonetworks.com/2023-unit42-ransomware-extortion-report) and the [2024 Incident Response Report](https://www.paloaltonetworks.com/resources/research/unit-42-incident-response-report)
 
 <h3>Login Credential​</h3>
 
