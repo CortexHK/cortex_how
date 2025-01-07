@@ -1,3 +1,4 @@
+![Cortex HoW](how_ransomware.png)
 <h1>Hands-on Investigations: Ransomware Edition​</h1>
 
 <h3>Instructions to Login​</h3>
