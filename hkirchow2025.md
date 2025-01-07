@@ -14,7 +14,7 @@
 
 <h3>Download the Lab Instruction and Related Materials</h3>
 
-Lab Deck: https://tinyurl.com/hkrichow2025
+Lab Deck: https://tinyurl.com/hkric-how2025
 
 Lab Guide: https://tinyurl.com/xdrhow2025 ​
 
