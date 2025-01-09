@@ -1,6 +1,8 @@
 ![Cortex HoW](how_ransomware.png)
 <h1>Hands-on Investigations: Ransomware Edition​</h1>
 
+[Link to this page](https://tinyurl.com/hkric-how2025)
+
 <h3>Instructions to Login​</h3>
 
 1. Open a new browser window in Incognito mode​
