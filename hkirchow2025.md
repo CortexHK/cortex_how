@@ -1,7 +1,7 @@
 ![Cortex HoW](how_ransomware.png)
 <h1>Hands-on Investigations: Ransomware Edition​</h1>
 
-[Link to this page](https://tinyurl.com/hkric-how2025)
+[Link to this page](https://tinyurl.com/hkrichow)
 
 <h3>Instructions to Login​</h3>
 
