@@ -26,9 +26,9 @@ Lab Guide: https://tinyurl.com/xdrhow2025 ​
 
 **Tenant URL:** https://productmarketing1.xdr.us.paloaltonetworks.com​
 
-**​Username:** symphony-cello@xdrlabs.com​
+**​Username:** 
 
-**Password:** Raven*2024X​
+**Password:** 
 
 
 <h3>Overview of the Lab:  Your manager asks you to investigate a Cyberattack that targeted the corporate laptop of an executive. What will you do?​</h3>
